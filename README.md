@@ -1,6 +1,6 @@
 # DjangoTranslate
 
-## Use my app
+## How to use my app
 
 First create a venv
 
