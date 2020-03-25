@@ -1,6 +1,8 @@
 # DjangoTranslate
 
-## Use my app
+If you want to look at the app without cloning the repo you should be able to access it at https://autotranslation.herokuapp.com/
+
+## How to use my app
 
 First create a venv
 
